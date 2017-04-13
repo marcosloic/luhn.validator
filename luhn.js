@@ -1,4 +1,4 @@
-export default function luhnCheck(inputNum) {
+exports.luhnCheck = function (inputNum) {
     let digit, digits, flag, sum, _i, _len;
     flag = true;
     sum = 0;
