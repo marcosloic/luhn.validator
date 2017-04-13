@@ -1,0 +1,24 @@
+{
+  "name": "luhn.validator",
+  "version": "1.0.0",
+  "description": "Luhn validation for credit cards",
+  "main": "luhn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosloic/luhn.validator.git"
+  },
+  "keywords": [
+    "luhn",
+    "check",
+    "javascript"
+  ],
+  "author": "Loic Marcos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcosloic/luhn.validator/issues"
+  },
+  "homepage": "https://github.com/marcosloic/luhn.validator#readme"
+}
